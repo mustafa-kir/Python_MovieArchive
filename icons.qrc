@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>filmfoto1.png</file>
+    <file>filmfoto2.png</file>
+    <file>arka_plan.png</file>
+    <file>filmfoto3.png</file>
+    <file>filmfoto4.png</file>
+    <file>filmfoto5.png</file>
+    <file>filmfoto6.png</file>
+    <file>filmfoto7.png</file>
+    <file>filmfoto8.png</file>
+    <file>filmfoto9.png</file>
+    <file>filmfoto10.png</file>
+    <file>filmfoto11.png</file>
+    <file>filmfoto12.png</file>
+    <file>filmfoto13.png</file>
+    <file>filmfoto14.png</file>
+    <file>filmfoto15.png</file>
+    <file>filmfoto16.png</file>
+    <file>filmfoto17.png</file>
+    <file>filmfoto18.png</file>
+    <file>filmfoto19.png</file>
+    <file>filmfoto20.png</file>
+    <file>filmfoto21.png</file>
+    <file>filmfoto22.png</file>
+    <file>filmfoto23.png</file>
+    <file>filmfoto24.png</file>
+    <file>filmfoto25.png</file>
+    <file>filmfoto26.png</file>
+    <file>filmfoto27.png</file>
+    <file>filmfoto28.png</file>
+    <file>filmfoto29.png</file>
+    <file>filmfoto30.png</file>
+    <file>filmfoto31.png</file>
+    <file>filmfoto32.png</file>
+    <file>filmfoto33.png</file>
+    <file>filmfoto34.png</file>
+    <file>filmfoto35.png</file>
+    <file>filmfoto36.png</file>
+    <file>filmfoto37.png</file>
+  </qresource>
+</RCC>
